@@ -1,7 +1,6 @@
 body {
 	margin: 0;
-	margin-left: ;
-	background-color: #A2B9AA
+	margin-left: 
 }
 
 header{
@@ -46,5 +45,5 @@ nav li a:hover:not(.active) {
 }
 
 nav .active {
-    background-color: #A2B9AA;
+    background-color: #4CAF50;
 }
